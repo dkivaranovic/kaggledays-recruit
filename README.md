@@ -16,9 +16,9 @@ Run *weighted_average_SUB.py* for a weighted average of the Lightgbm and Keras s
 
 Performance of the models:
 | Model            | Public LB | Private LB |
-| ---------------- |:---------:| -----:|
-| Lightgbm         | 0.468     | 0.509 |
-| Keras            | 0.474     | 0.513 |
-| weighted average | 0.468     | 0.505 |
+| ---------------- |-----------| ---------- |
+| Lightgbm         | 0.468     | 0.509.     |
+| Keras            | 0.474     | 0.513      |
+| weighted average | 0.468     | 0.505      |
 
 Have fun with it!
