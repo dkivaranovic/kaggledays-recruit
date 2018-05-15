@@ -12,7 +12,7 @@ Run the following scripts in the given order to obtain Lightgbm predictions for 
 
 Run the following scripts in the given order to obtain Keras predictions for the validations set, for the test set and the submission file: *KERAS_01_CV.py*, *KERAS_01_LB.py* and *KERAS_01_SUB.py*.
 
-Run *weighted_average_SUB.py* for a weighted average of the Lightgbm and Keras solution.
+Run *weighted_average_SUB.py* for a weighted average of the Lightgbm and Keras model.
 
 Performance of the models:
 
