@@ -15,6 +15,7 @@ Run the following scripts in the given order to obtain Keras predictions for the
 Run *weighted_average_SUB.py* for a weighted average of the Lightgbm and Keras solution.
 
 Performance of the models:
+
 | Model            | Public LB | Private LB |
 | ---------------- |-----------| ---------- |
 | Lightgbm         | 0.468     | 0.509.     |
