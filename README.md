@@ -6,7 +6,7 @@ To run the solution, download the git repository and run `bash setup_directory.s
 
 Ok, you now have all the data you need. You also have to have python installed with the following packages: **numpy**, **pandas**, **scipy**, **scikit-learn**, **lightgbm** and **keras**. 
 
-Run *preprocessing.py* first. This is just some basic preprocessing of the data. Then, generate all features by running *feat_gen_standard.py*, *feat_gen_visitors.py*, *feat_gen_res_visitors.py*, *feat_gen_res_visitors_type2.py* and *feat_gen_weather.py* (the order of the scripts does not matter).
+Run *preprocessing.py* first. This is just some basic preprocessing of the data. Then generate all features by running *feat_gen_standard.py*, *feat_gen_visitors.py*, *feat_gen_res_visitors.py*, *feat_gen_res_visitors_type2.py* and *feat_gen_weather.py* (the order of the scripts does not matter).
 
 Run the following scripts in the given order to obtain Lightgbm predictions for the validations set, for the test set and the submission file: *LGB_01_CV.py*, *LGB_01_LB.py* and *LGB_01_SUB.py*.
 
